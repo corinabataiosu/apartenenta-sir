@@ -1,7 +1,3 @@
-/*(Tipul bool) Se citete de la tastatura o secventa de siruri de caractere. Sa se dezvolte o
-aplicatie care determina apartenenta unui alt sir de caractere la secventa, iar în cazul in
-care sirul apartine secventei sa se contorizeze numarul de aparitii ale acestuia. Secventa
-se memoreaza intr-un tablou de siruri.*/
 #include <iostream>
 #include <string>
 
